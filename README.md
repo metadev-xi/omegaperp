@@ -65,4 +65,4 @@ OmegaPerp provides a comprehensive API surface for both frontend interactions an
 
 <!-- Last Activity: 2026-01-29T11:15:55.324Z -->
 
-<!-- Last Activity: 2026-01-29T21:09:59.506Z -->
+<!-- Last Activity: 2026-01-29T22:09:52.770Z -->
